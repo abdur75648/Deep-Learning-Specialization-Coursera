@@ -1,5 +1,6 @@
 # Deep Learning Specialization Coursera [UPDATED Version 2021]
 This repo contains all of my assignment notebooks of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
+
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
 
 ## What's New
