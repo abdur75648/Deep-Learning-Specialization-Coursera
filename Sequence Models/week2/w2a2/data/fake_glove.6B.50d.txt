@@ -1,0 +1,15 @@
+a 3 3
+synonym_of_a 3 3
+a_nw 2 4
+a_s 3 2
+a_n 3 4
+c -2 1
+c_n -2 2
+c_ne -1 2
+c_e -1 1
+c_se -1 0
+c_s -2 0
+c_sw -3 0
+c_w -3 1
+c_nw -3 2
+cucumber 0 0
