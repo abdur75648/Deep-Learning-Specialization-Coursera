@@ -16,7 +16,7 @@ Happy Learning :)
   - [W2A2 - Python Basics with Numpy](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week2/Python%20Basics%20with%20Numpy)
   - [W3A1 - Planar data classification with one hidden layer](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week3/Planar%20data%20classification%20with%20one%20hidden%20layer)
   - [W3A1 - Building your Deep Neural Network: Step by Step¶](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week4/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
-  - [W3A2 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week4/Deep%20Neural%20Network%20Application_%20Image%20Classification)
+  - [W3A2 - Deep Neural Network for Image Classification: Application](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Neural%20Networks%20and%20Deep%20Learning/Week4/Deep%20Neural%20Network%20Application_%20Image%20Classification)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
