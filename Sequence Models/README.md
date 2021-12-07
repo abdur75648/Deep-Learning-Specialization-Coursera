@@ -1,4 +1,4 @@
-***Become familiar with sequence models***
+# Become familiar with sequence models #
 
 Build and train Recurrent Neural Networks (RNNs) and commonly-used variants such as GRUs and LSTMs
 
