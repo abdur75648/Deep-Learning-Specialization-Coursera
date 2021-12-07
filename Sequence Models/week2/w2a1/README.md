@@ -1,6 +1,6 @@
 **Operations on word vectors**
 
-****Learn about word embeddings****
+***Word Embeddings***
 
 Get a chnace to understand how word embeddings capture relationships between words
 
