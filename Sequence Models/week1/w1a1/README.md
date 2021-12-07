@@ -1,3 +1,3 @@
 **RNN (Recurrent Neural Network)**
 
-Building a RNN step-by-step
+Building an RNN step-by-step
