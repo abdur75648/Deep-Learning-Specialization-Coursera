@@ -45,7 +45,7 @@ Happy Learning :)
 - Course 5: Sequence Models
 
   - [W1A1 - Building a Recurrent Neural Network - Step by Step](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Sequence%20Models/week1/w1a1)
-  - [W1A2 - Character level language model - Dinosaurus land](https://github.com/abdur75648](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Sequence%20Models/week1/w1a2)
+  - [W1A2 - Character level language model - Dinosaurus land](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Sequence%20Models/week1/w1a2)
   - [W1A3 - Improvise A Jazz Solo with an LSTM  Network](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Sequence%20Models/week1/w1a3)
   - [W2A1 - Operations on word vectors](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Sequence%20Models/week2/w2a1)
   - [W2A2 - Emojify](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Sequence%20Models/week2/w2a2)
