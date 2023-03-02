@@ -1,6 +1,6 @@
 # Deep Learning Specialization Coursera [UPDATED Version 2021]
 [![GitHub Repo](https://img.shields.io/badge/Deep%20Learning%20Specialization%20Coursera-blueviolet?logo=github&style=flat-square)](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera)
-[![Website](https://img.shields.io/badge/Deep%20Learning%20Specialization%20Coursera%20Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/)
+[![Website](https://img.shields.io/badge/Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/Deep-Learning-Specialization-Coursera/)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 ![GitHub stars](https://img.shields.io/github/stars/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Star&maxAge=2592000)
 ![GitHub forks](https://img.shields.io/github/forks/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Fork&maxAge=2592000)
