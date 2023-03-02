@@ -1,7 +1,7 @@
 # Deep Learning Specialization Coursera [UPDATED Version 2021]
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
-[![GitHub stars](https://img.shields.io/github/stars/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Star&maxAge=2592000)]
-[![GitHub forks](https://img.shields.io/github/forks/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Fork&maxAge=2592000)]
+![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+![GitHub stars](https://img.shields.io/github/stars/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Star&maxAge=2592000)
+![GitHub forks](https://img.shields.io/github/forks/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Fork&maxAge=2592000)
 
 [This repo](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera) contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
 
