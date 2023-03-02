@@ -1,5 +1,8 @@
 # Deep Learning Specialization Coursera [UPDATED Version 2021]
-This repo contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)]
+[![GitHub stars](https://img.shields.io/github/stars/akshaybahadur21/chatgpt-api-python.svg?style=social&label=Star&maxAge=2592000)]
+[![GitHub forks](https://img.shields.io/github/forks/akshaybahadur21/chatgpt-api-python.svg?style=social&label=Fork&maxAge=2592000)]
+[This repo](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera) contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
 
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
 
