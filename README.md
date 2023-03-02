@@ -63,3 +63,12 @@ Happy Learning :)
 
 ## Disclaimer
 I've uploaded these solutions here, only for being used as a help by those who get stuck somewhere. It may help them to save some time. I strongly recommend everyone to not directly copy any part of the code (from here or anywhere else) while doing the assignments of this specialization. The assignments are fairly easy and one learns a great deal of things upon doing these. Thanks to the deeplearning.ai team for giving this treasure to us.
+
+
+## Connect with me
+Name: Abdur Rahman
+Institution: Indian Institute of Technology Delhi
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/abdur-rahman-0b84341a0/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/abdur75648)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/abdur75648)
