@@ -9,9 +9,6 @@
 ## Announcement
 > [!IMPORTANT]  
 > Check our latest paper (accepted in ICDAR'23) on Urdu OCR
-
-**Title of the paper *"UTRNet: High-Resolution Urdu Text Recognition In Printed Documents"***
-
 [![UTRNet](https://img.shields.io/badge/UTRNet:%20High--Resolution%20Urdu%20Text%20Recognition-blueviolet?logo=github&style=flat-square)](https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition)
 [![Website](https://img.shields.io/badge/Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/UTRNet/)
 [![arXiv](https://img.shields.io/badge/arXiv-2306.15782-darkred.svg)](https://arxiv.org/abs/2306.15782)
