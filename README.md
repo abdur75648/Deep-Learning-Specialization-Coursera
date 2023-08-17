@@ -5,6 +5,18 @@
 ![GitHub stars](https://img.shields.io/github/stars/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Star&maxAge=2592000)
 ![GitHub forks](https://img.shields.io/github/forks/abdur75648/Deep-Learning-Specialization-Coursera.svg?style=social&label=Fork&maxAge=2592000)
 
+---
+## Announcement
+> [!IMPORTANT]  
+> Check our latest paper (accepted in ICDAR'23) on Urdu OCR
+
+**Title of the paper *"UTRNet: High-Resolution Urdu Text Recognition In Printed Documents"***
+
+[![UTRNet](https://img.shields.io/badge/UTRNet:%20High--Resolution%20Urdu%20Text%20Recognition-blueviolet?logo=github&style=flat-square)](https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition)
+[![Website](https://img.shields.io/badge/Website-Visit%20Here-brightgreen?style=flat-square)](https://abdur75648.github.io/UTRNet/)
+[![arXiv](https://img.shields.io/badge/arXiv-2306.15782-darkred.svg)](https://arxiv.org/abs/2306.15782)
+---
+
 [This repo](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera) contains all of the solved assignments of Coursera's most famous [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) of 5 courses offered by [deeplearning.ai](www.deeplearning.ai)
 
 Instructor: [Prof. Andrew Ng](www.andrewng.org)
